@@ -1,26 +1,8 @@
 # ember-power-colorpicker
 
-This README outlines the details of collaborating on this Ember addon.
+Simple ember color picker addon that contains 140 web colors that you can choose from.
 
-## Installation
-
-* `git clone <repository-url>` this repository
-* `cd ember-power-colorpicker`
-* `npm install`
-
-## Running
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
+# TODO
+* [ ] Make it work for user based entry for hex color
+* [ ] Give the freedom to pick any hex from the color tray
+* [ ] Give the option to pick color with alpha (hex8)
