@@ -1,0 +1,7 @@
+{{#power-select
+    options=webColors
+    selected=selected
+    searchEnabled=false
+    onchange=(action (mut selected)) as |color|}}
+  {{ember-power-colorpicker/selected-color color=color}}
+{{/power-select}}
