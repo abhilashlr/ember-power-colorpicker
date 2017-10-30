@@ -3,6 +3,9 @@
 INSTALLATION:
 use this git repo url in package.json until this package is published as addon.
 
+USAGE:
+{{ember-power-colorpicker}}
+
 Simple ember color picker addon that contains 140 web colors that you can choose from.
 
 # TODO
